@@ -10,5 +10,5 @@ After my PhD studies, I had a short-term position as a Postdoc in the [Farming S
 
 I finished my doctoral studies at the Swedish University of Agricultural Sciences. I focused on [crop diversification practices]( https://pub.epsilon.slu.se/23741/1/rodriguez_c_210524.pdf) and the implications for resource use and cropping systems sustainability. I had the opportunity to visit the [INRA UNR agonomie](https://www6.versailles-grignon.inrae.fr/agronomie_eng/) in Thiverval-Grignon as a PhD student for one month in 2017. I have also been a member of the [European association for Agroecology]( https://www.agroecology-europe.org/) since 2018. 
 
-A short CV can be downloaded [here](docs/CV_RodriguezC.pdf)
+A short CV can be downloaded [here](CV_RodriguezC.pdf)
 
