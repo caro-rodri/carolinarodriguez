@@ -1,0 +1,29 @@
+[
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/mental models/index.html",
+      "/research/training interventions/index.html",
+      "/research/nature_human/index.html",
+      "/research/diversified cropping systems/index.html",
+      "/research/meta-analysis intercropping/index.html"
+    ]
+  },
+  {
+    "listing": "/updates/index.html",
+    "items": [
+      "/updates/residential gardens/index.html",
+      "/updates/allotment gardens/index.html",
+      "/updates/urban agriculture practices/index.html"
+    ]
+  },
+  {
+    "listing": "/updates.html",
+    "items": [
+      "/updates/index.html",
+      "/updates/residential gardens/index.html",
+      "/updates/allotment gardens/index.html",
+      "/updates/urban agriculture practices/index.html"
+    ]
+  }
+]

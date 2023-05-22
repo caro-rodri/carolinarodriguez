@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Carolina Rodriguez</title>
+<link>https://carolina-rodriguez.com/updates/index.html</link>
+<atom:link href="https://carolina-rodriguez.com/updates/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.1.251</generator>
+<lastBuildDate>Mon, 14 Nov 2022 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Ecosystem services in urban gardens</title>
+  <link>https://carolina-rodriguez.com/updates/residential gardens/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Urbanization is one of the leading causes of environmental pollution and the decline in ecosystem services in the urban ecosystem. Pollution is primarily due to anthropogenic activities and thus creates many ecological problems like global warming, water and air pollution, and loss of biodiversity. Green spaces can lessen those negative impacts and enhance the quality of life in urban areas.</p>
+<p>During this year, <a href="https://nbid43.ifm.liu.se/2023-2/oluwatoyin-odeyemi/">Oluwatoyin Odeyemi</a>, a student from the master’s programme in <strong>Ecology and the Environment at Linköping University</strong>, has been assessing the provision of ecosystem services across different gradients of gardens in Linköping, including allotment and residential gardens.</p>
+<p>This study aims to reveal the ability of these gardens to provide ecosystem services bundles, and how differences in management can create synergies and trade-offs among these ecosystem services. The study focused on nitrogen and phosphorous balances, plant diversity, pollination, and recreation before and during Covid.</p>
+<div id="fig-ua" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-bottom">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://carolina-rodriguez.com/updates/residential gardens/ES_urban.jpeg" class="img-fluid figure-img"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://carolina-rodriguez.com/updates/residential gardens/insects.jpeg" class="img-fluid figure-img"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;1: Residential garden in Linköping</figcaption><p></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>urban agriculture</category>
+  <category>biodiversity</category>
+  <category>urban gardens</category>
+  <category>ecosystem services</category>
+  <guid>https://carolina-rodriguez.com/updates/residential gardens/index.html</guid>
+  <pubDate>Mon, 14 Nov 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://carolina-rodriguez.com/updates/residential gardens/bees.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Allotment garden’s roles in sustainable resource management</title>
+  <link>https://carolina-rodriguez.com/updates/allotment gardens/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Since the beginning of the year, together with some colleagues from Linköping University and the University of Leeds <a href="https://www.sdu.dk/en/forskning/recap/people/phd+fellows/harrie+mort">(Harrie Mort)</a>, we have been investigating urban farming (particularly allotment gardens) in making cities more sustainable. We have established a case study in Stockholm City, where we have been asking a diverse group of stakeholders <em>how allotment gardens can play a role in reducing the excess of nutrients in the urban environments and contribute to human well-being and the sustainability of food systems.</em></p>
+<p>We have followed the <a href="https://www.sthlmkoloni.se/forskare-studerar-naringsfloden-i-johannelund/">Johanelund allotment</a>, where we have been collecting information about management practices and taking soil samples to know the number of nutrients in the soil to create “nutrient budgets” that show the balance between nutrient inputs and output. This project’s results will help us assess how urban agriculture fits into the big picture of nutrient flows from the water quality of Stockholm’s lakes.</p>
+<div id="fig-ua" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-bottom">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://carolina-rodriguez.com/updates/allotment gardens/JHL_01.jpeg" class="img-fluid figure-img"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://carolina-rodriguez.com/updates/allotment gardens/JHL_02.jpeg" class="img-fluid figure-img"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;1: Start of the growing season at the Johannelund allotment garden</figcaption><p></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>urban agriculture</category>
+  <category>circularity</category>
+  <category>nutrients</category>
+  <category>sustainability</category>
+  <guid>https://carolina-rodriguez.com/updates/allotment gardens/index.html</guid>
+  <pubDate>Sat, 29 Oct 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://carolina-rodriguez.com/updates/allotment gardens/JHL.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Surveying urban agriculture practices</title>
+  <link>https://carolina-rodriguez.com/updates/urban agriculture practices/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>We started a campaign to collect information through an online survey to get an insight into how people grow vegetables or other crops in urban environments. If you are an urban gardener and are interested in sharing your experiences with urban agriculture, you can participate in this survey.</p>
+<p>The link to the survey you can find it here: 👉 <a href="https://qrs.ly/71dvkgw">Urban garden experiences</a></p>
+<p>The results from this survey will help us to have a better view of practices implemented in urban gardens. Further, we will examine how gardeners manage resources and finally understand the gardeners’ perception of the environmental impacts and concerns of urban agriculture inside and outside the urban gardens.</p>
+<p><img src="https://carolina-rodriguez.com/updates/urban agriculture practices/flyer_en.jpg" class="img-fluid" alt="Urban Garden Experiences survey online."></p>
+
+
+
+ ]]></description>
+  <category>urban agriculture</category>
+  <category>management practices</category>
+  <category>survey</category>
+  <guid>https://carolina-rodriguez.com/updates/urban agriculture practices/index.html</guid>
+  <pubDate>Wed, 28 Sep 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://carolina-rodriguez.com/updates/urban agriculture practices/flyer.pdf" medium="image"/>
+</item>
+</channel>
+</rss>
