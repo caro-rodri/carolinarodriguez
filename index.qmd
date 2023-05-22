@@ -1,7 +1,31 @@
 ---
-title: "carolinarodriguez.github.io"
+image: Caro_new.jpeg
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 25em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:carolina.rodriguez@liu.se
+    - icon: mastodon fediscience
+      text: mastodon 
+      href: https://fediscience.org/@CRodriguez
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=F4XFcgYAAAAJ&hl=en
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/carolina-rodriguez-3b874054/
+    - icon: researchgate
+      text: Researchgate
+      href: https://www.researchgate.net/profile/Carolina-Rodriguez-73
 ---
 
-This is a Quarto website.
+Postdoc at the [Ecological and Environmental Modeling](https://liu.se/en/organisation/liu/ifm/ecomod) research group of Linköping University
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Cropping systems ecology\
+Urban agriculture\
+Sustainable resource management
+
+Recently working on exploring strategies to improve the role of urban agriculture as a form of green infrastructure and sustainable urban nutrient management.
