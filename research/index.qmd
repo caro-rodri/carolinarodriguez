@@ -1,0 +1,39 @@
+---
+title: "Research"
+listing:
+  - id: cr
+    max-description-length: 500
+    image-height: "250px"
+    fields: [image,title,description]
+    contents: 
+      - mental models
+      - training interventions
+      - nature_human
+    type: grid
+    image-align: left
+    sort: "priority asc"
+    grid-item-border: false
+  - id: pr
+    max-description-length: 500
+    image-height: "250px"
+    fields: [image,title,description]
+    contents: 
+      - diversified cropping systems
+      - meta-analysis intercropping
+    type: grid
+    image-align: left
+    sort: "priority asc"
+    grid-item-border: false
+---
+
+
+
+## Current research 
+:::{#cr}
+:::
+
+## Past research
+:::{#pr}
+:::
+
+

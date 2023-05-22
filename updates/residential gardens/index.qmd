@@ -1,0 +1,28 @@
+---
+title: "Ecosystem services in urban gardens"
+description: |
+    Allotment and residential gardens provide a wide diversity of ecosystem services.
+date: "2022-11-15"
+categories:
+  - urban agriculture
+  - biodiversity
+  - urban gardens
+  - ecosystem services
+engine: markdown
+code-fold: true
+image: /updates/residential gardens/bees.jpeg
+---
+
+Urbanization is one of the leading causes of environmental pollution and the decline in ecosystem services in the urban ecosystem. Pollution is primarily due to anthropogenic activities and thus creates many ecological problems like global warming, water and air pollution, and loss of biodiversity. Green spaces can lessen those negative impacts and enhance the quality of life in urban areas.
+
+During this year, [Oluwatoyin Odeyemi](https://nbid43.ifm.liu.se/2023-2/oluwatoyin-odeyemi/), a student from the master's programme in **Ecology and the Environment at Linköping University**, has been assessing the provision of ecosystem services across different gradients of gardens in Linköping, including allotment and residential gardens.
+
+This study aims to reveal the ability of these gardens to provide ecosystem services bundles, and how differences in management can create synergies and trade-offs among these ecosystem services. The study focused on nitrogen and phosphorous balances, plant diversity, pollination, and recreation before and during Covid.
+
+::: {#fig-ua layout="[15,15]" layout-valign="bottom"}
+![](ES_urban.jpeg)
+
+![](insects.jpeg)
+
+Residential garden in Linköping
+:::

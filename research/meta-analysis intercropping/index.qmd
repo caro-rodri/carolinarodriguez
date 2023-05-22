@@ -1,0 +1,14 @@
+---
+date: "2022-10-04"
+description: Effect of intercropping and crop management practices on delivering ecosystem services in *Allium* cropping systems. 
+subtitle: Synthesis about the combination of companion crops with *Allium* species
+title: Meta-analysis on diversified vegetable production
+image: FIqds.png
+title-block-style: none
+toc: true
+priority: 5
+---
+
+After my Ph.D. studies, I did a short-term Postdoc in the [Farming Systems Ecology group](https://www.wur.nl/en/research-results/chair-groups/plant-sciences/farming-systems-ecology-group.htm) at Wageningen University. The project was focusing on identifying agroecological crop traits for designing diversified cropping systems. Through a systematic review (Meta-analysis) explore the effects of diversified vegetable production worldwide, focusing on several ecosystem services to provide farmers with practical knowledge of the benefits of crop diversification to a larger extent.
+
+

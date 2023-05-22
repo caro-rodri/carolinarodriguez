@@ -1,0 +1,30 @@
+---
+date: "2022-09-22"
+description: Combining crop diversification practices to promote multiple benefits and enhance the sustainable development of agroecosystems.
+subtitle: Sustainability Assessment of Diversified Cropping Systems
+title: Crop diversification across scale
+image: Cover_phd.png
+title-block-style: none
+toc: true
+priority: 5
+---
+
+
+Diversified cropping systems have been highlighted as a way to enhance sustainability since the combination of crop diversification practices through spatial and temporal scales may support ecosystem functioning. **This research project explored the effects of crop and cropping system diversification in the functions and compositions of agroecosystems in the Scania region in Sweden.**
+
+
+::: {#fig-Ic layout="[15,15,15]" layout-valign="bottom"}
+
+![Intercropping cereal-legumes](Ic_cer.jpg){#fig-Ic_cer}
+
+![cover crops](Ic_veg.jpg){#fig-Ic_veg}
+
+![Green manures](Mix.jpg){#fig-Mix}
+
+
+
+---
+fig-cap-location: bottom
+---
+Crop diversification practices 
+:::

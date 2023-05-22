@@ -1,0 +1,12 @@
+---
+date: "2022-11-"
+description: Using training as an experiential learning intervention to change attitudes and behaviors related to phosphorus management.
+subtitle: Enhancing sustainable management practices in urban gardens 
+title: Training interventions
+image: learning.png
+title-block-style: none
+toc: true
+priority: 5
+---
+
+Coming soon!

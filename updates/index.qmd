@@ -1,0 +1,12 @@
+---
+title: "Updates"
+listing:
+  contents: 
+  - allotment gardens
+  - residential gardens
+  - urban agriculture practices
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+---

@@ -1,0 +1,41 @@
+---
+title: "Publications"
+page-layout: full
+sidebar:
+  contents:
+    - publications.qmd
+    - section: Publications
+      contents: 
+      - Journal articles
+      - Peer-reviewed conference contributions
+      - Reports
+---
+## Journal articles 
+:::{#Jr}
+:::
+
+**Rodriguez, C.**, Lopez Hörsel, S., Dimitrova Mårtensson L-M., & Blennow, K. Is yield loss during drought correlated to landscape-level crop diversity? Development of enabling methodology for crop diversity studies with application in Scania, Sweden (Submitted) 
+
+**Rodriguez, C.**, Dimitrova Mårtensson L.-M., Zachrison M., & Carlsson G. Sustainability of diversified organic cropping systems -- challenges identified by farmer interviews and multi-criteria assessments. Front. Agron. 3, 75. [doi](https://doi.org/10.3389/fagro.2021.698968)
+
+**Rodriguez C.**, Dimitrova Mårtensson L.-M., Jensen ES., & Carlsson G., (2021). Combining crop diversification practices can benefit cereal production in temperate climates. Agron. Sustain. Dev. 41, 48. [doi](https://doi.org/10.1007/s13593-%20021-00703-1)
+
+Jensen, ES., Chongtham, I., Dhamala, N., **Rodriguez, C.**, Carton, N., & Carlsson, G. (2020). Diversifying European agricultural systems by intercropping grain legumes and cereals. Int J Agric Nat Reso. 47(3), 174-186. [doi](http://dx.doi.org/10.7764/ijanr.v47i3.2241)
+
+**Rodriguez C.**, Carlsson G., Englund J.-E, Flöhr A., Pelzer E., Jeuffroy MH, Makowski D., & Jensen ES. (2020). Grain legume-cereal intercropping enhances the use of soil-derived and biologically fixed nitrogen in temperate agroecosystems. A meta- analysis. Eur J Agron. 118, 126077. [doi](https://doi.org/10.1016/j.eja.2020.126077)
+
+## Peer-reviewed conference contributions
+:::{#prcc}
+:::
+
+**Rodriguez C.**, Jensen ES., & Carlsson G. (2021). Diversifying crop rotation sequences with grain legume/cereal intercrops and legume/grass cover crops. Aspects of Applied Biology 146, 43-48. [site](https://www.researchgate.net/publication/368544914_Diversifying_crop_rotation_sequences_with_grain_legumecereal_intercrops_and_legumegrass_cover_crops)
+
+**Rodriguez C.**, Carlsson G., Englund J.-E, Flöhr A., Pelzer E., Jeuffroy MH, Makowski D., & Jensen ES. (2019). Grain legume-cereal intercropping increases the reliance on dinitrogen fixation in grain legumes and enhances soil N acquisition in cereal plants: Meta-analysis. European Conference on Crop Diversification, Book of Abstracts, pp. 155- 156. [site](https://zenodo.org/record/3516329#.Yy2kTOxBx_Q)
+
+## Reports
+:::{#rep}
+:::
+
+Lopez Hösel, S., **Rodriguez C.**, Albertsson J., Bodin, P., Markensten, T., Brady M., Carlsson, G. 2019. Gröddiversitets-index -- metodutveckling och rekommendationer. SLU. finansiering från SMHI via medel för utveckling av handlingsplaner och verktyg (SMHI dnr 2018/31/10.5).
+
+

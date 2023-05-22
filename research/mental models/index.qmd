@@ -1,0 +1,37 @@
+---
+date: "2022-09-01"
+description: Mapping the perceptions of gardeners and other actors using a [web-based tool]( https://www.m-tool.org/) to identify the possibilities and constraints of urban gardens as green infrastructure.
+subtitle: Perception of the role of urban agriculture as a form of green infrastructure
+title: Mental models
+image: mental-models.png
+title-block-style: none
+toc: true
+priority: 5
+---
+
+Urban agriculture takes many forms and may also provide disservices (e.g., increased contact with contaminated soils or wastes, larger volumes of organic waste to treat, or potential water or air pollution). Although gardens have the capacity to be multifunctional, it is important to know to whom ecosystem services (and disservices) are provided and at what level these are provided.
+
+Understanding the current opportunities and barriers for urban gardens to fit into urban planning goals require integrated assessments of social and ecological variables. Despite the historical and cultural use of these urban gardens and the provision of multiple services, formalized social and ecological data that describe urban agriculture practices in the cities are still lacking.
+
+This project aims to explore the perception of gardeners, garden associations, government agencies, policymakers, and other actors involved with urban agriculture but also to identify possibilities and constraints of urban agriculture as a source of green infrastructure.
+
+
+
+
+::: {#fig-ua layout="[15,15]" layout-valign="bottom"}
+
+![Allotment garden in Malmö](ua_malmo.jpeg){#fig-ua_malmo}
+
+![Mental model Urban Agriculture](ua_mm.png){#fig-ua_mm}
+---
+fig-cap-location: bottom
+---
+Urban Agriculture in Sweden 
+:::
+
+
+
+
+
+
+

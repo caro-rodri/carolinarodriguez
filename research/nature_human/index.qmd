@@ -1,0 +1,21 @@
+---
+date: "2022-01-30"
+description: Through qualitative and quantitative analysis to illustrate human and non-human-nature connections.
+subtitle: Demonstrating dependencies between humanity and nature towards a sustainable future - A nitrogen case-study
+title: Nature-human connectedness
+image: peyresq.jpg
+title-block-style: none
+toc: true
+priority: 5
+---
+
+The initial ideas for this project started during the [ALTER-Net summer school](https://alterneteurope.eu/summerschool/) in 2019. During this summer school, we open spaces to discuss how nature and human relations have been expressed in academic and policy arenas. The group included several students and researchers from different backgrounds and universities worldwide. We then got the opportunity to apply to the [AHIA, Alternet High Impact Actions]( https://alterneteurope.eu/ahia/) award, where we got funded to develop this idea further to illustrate human and non-human nature connectedness using the nitrogen cycle as a case study.
+
+The project participated in the [Alternet Conference 2022 "Transformative Changes for Biodiversity and Health"]( https://alterneteurope.eu/conference2022/) in Ghent, Belgium.
+Both with a session proposal, *“Transforming our perceptions of Human-Nature relationships for transformative change”*, and with an oral presentation in the same session, *“Can the Lorax and the Once-ler ever be friends?*
+
+
+
+## Blog post
+
+[AHIA 2020-21 Blog Post](https://alterneteurope.eu/news/#blogpost)

@@ -1,0 +1,24 @@
+---
+title: "Surveying urban agriculture practices"
+description: |
+    How stakeholders link management practices in urban gardens to environmental issues. 
+date: "2022-09-29"
+categories:
+  - urban agriculture
+  - management practices
+  - survey
+engine: markdown
+code-fold: true
+image: /updates/urban agriculture practices/flyer.pdf
+
+---
+
+
+We started a campaign to collect information through an online survey to get an insight into how people grow vegetables or other crops in urban environments. If you are an urban gardener and are interested in sharing your experiences with urban agriculture, you can participate in this survey.
+
+The link to the survey you can find it here:
+👉 [Urban garden experiences](https://qrs.ly/71dvkgw)
+
+The results from this survey will help us to have a better view of practices implemented in urban gardens. Further, we will examine how gardeners manage resources and finally understand the gardeners' perception of the environmental impacts and concerns of urban agriculture inside and outside the urban gardens. 
+
+![](flyer_en.jpg){fig-alt="Urban Garden Experiences survey online."}
