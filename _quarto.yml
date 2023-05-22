@@ -1,19 +1,33 @@
 project:
+  title: "Carolina Rodriguez | Agriculture | Urban farming | sustainability"
   type: website
+  output-dir: docs
 
 website:
-  title: "carolinarodriguez.github.io"
+  site-url: "https://carolina-rodriguez.com"
+  title: "Carolina Rodriguez"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About me
+      - icon: book
+        href: research/index.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications 
+      - href: updates/index.qmd
+        text: Updates
 
+      
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      - Flatly
+    css: 
+      - styles.css
+      - academicons.css
     toc: true
-
+    
+editor: visual
 
 
