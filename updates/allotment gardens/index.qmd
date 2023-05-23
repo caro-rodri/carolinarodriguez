@@ -11,17 +11,13 @@ categories:
 engine: markdown
 code-fold: true
 image: /updates/allotment gardens/JHL.jpeg
-
 ---
 
+Since the beginning of the year, together with some colleagues from Linköping University and the University of Leeds [(Harrie Mort)](https://www.sdu.dk/en/forskning/recap/people/phd+fellows/harrie+mort), we have been investigating urban farming (particularly allotment gardens) in making cities more sustainable. We have established a case study in Stockholm City, where we have been asking a diverse group of stakeholders *how allotment gardens can play a role in reducing the excess of nutrients in the urban environments and contribute to human well-being and the sustainability of food systems.*
 
-Since the beginning of the year, together with some colleagues from Linköping University and the University of Leeds [(Harrie Mort)](https://www.sdu.dk/en/forskning/recap/people/phd+fellows/harrie+mort), we have been investigating urban farming (particularly allotment gardens) in making cities more sustainable. We have established a case study in Stockholm City, where we have been asking a diverse group of stakeholders *how allotment gardens can play a role in reducing the excess of nutrients in the urban environments and contribute to human well-being and the sustainability of food systems.* 
-
-We have followed the [Johanelund allotment](https://www.sthlmkoloni.se/forskare-studerar-naringsfloden-i-johannelund/), where we have been collecting information about management practices and taking soil samples to know the number of nutrients in the soil to create "nutrient budgets" that show the balance between nutrient inputs and output.
-This project's results will help us assess how urban agriculture fits into the big picture of nutrient flows from the water quality of Stockholm's lakes.  
+We have followed the [Johannelund allotment](https://www.sthlmkoloni.se/forskare-studerar-naringsfloden-i-johannelund/), where we have been collecting information about management practices and taking soil samples to know the number of nutrients in the soil to create "nutrient budgets" that show the balance between nutrient inputs and output. This project's results will help us assess how urban agriculture fits into the big picture of nutrient flows from the water quality of Stockholm's lakes.
 
 ::: {#fig-ua layout="[15,15]" layout-valign="bottom"}
-
 ![](JHL_01.jpeg)
 
 ![](JHL_02.jpeg)
@@ -29,5 +25,6 @@ This project's results will help us assess how urban agriculture fits into the b
 ---
 fig-cap-location: bottom
 ---
+
 Start of the growing season at the Johannelund allotment garden
 :::
