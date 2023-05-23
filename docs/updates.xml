@@ -100,7 +100,7 @@
   <category>survey</category>
   <guid>https://carolina-rodriguez.com/updates/urban agriculture practices/index.html</guid>
   <pubDate>Wed, 28 Sep 2022 22:00:00 GMT</pubDate>
-  <media:content url="https://carolina-rodriguez.com/updates/urban agriculture practices/flyer_en.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://carolina-rodriguez.com/updates/urban agriculture practices/flyer_en.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Updates</title>
@@ -197,9 +197,9 @@ Oct 30, 2022
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="urban agriculture,management practices,survey" data-listing-date-sort="1664402400000" data-listing-file-modified-sort="1684848822948" data-listing-reading-time-sort="0.56">
+<div class="quarto-post image-right" data-index="2" data-categories="urban agriculture,management practices,survey" data-listing-date-sort="1664402400000" data-listing-file-modified-sort="1684849076474" data-listing-reading-time-sort="0.56">
 <div class="thumbnail">
-<p><a href="../updates/urban agriculture practices/index.html"> <img src="https://carolina-rodriguez.com/updates/urban agriculture practices/flyer_en.jpg" class="thumnail-image"> </a></p>
+<p><a href="../updates/urban agriculture practices/index.html"> <img src="https://carolina-rodriguez.com/updates/urban agriculture practices/flyer_en.jpeg" class="thumnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="../updates/urban agriculture practices/index.html">
@@ -241,7 +241,7 @@ No matching items
 </div>
 </div> ]]></description>
   <guid>https://carolina-rodriguez.com/updates/index.html</guid>
-  <pubDate>Tue, 23 May 2023 13:34:54 GMT</pubDate>
+  <pubDate>Tue, 23 May 2023 13:37:59 GMT</pubDate>
 </item>
 </channel>
 </rss>

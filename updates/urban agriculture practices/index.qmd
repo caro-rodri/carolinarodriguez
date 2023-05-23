@@ -9,7 +9,7 @@ categories:
   - survey
 engine: markdown
 code-fold: true
-image: /updates/urban agriculture practices/flyer_en.jpg
+image: /updates/urban agriculture practices/flyer_en.jpeg
 ---
 
 We started a campaign to collect information through an online survey to get an insight into how people grow vegetables or other crops in urban environments. If you are an urban gardener and are interested in sharing your experiences with urban agriculture, you can participate in this survey.
