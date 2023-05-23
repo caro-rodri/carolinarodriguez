@@ -54,7 +54,7 @@
 
 
 <p>Since the beginning of the year, together with some colleagues from Linköping University and the University of Leeds <a href="https://www.sdu.dk/en/forskning/recap/people/phd+fellows/harrie+mort">(Harrie Mort)</a>, we have been investigating urban farming (particularly allotment gardens) in making cities more sustainable. We have established a case study in Stockholm City, where we have been asking a diverse group of stakeholders <em>how allotment gardens can play a role in reducing the excess of nutrients in the urban environments and contribute to human well-being and the sustainability of food systems.</em></p>
-<p>We have followed the <a href="https://www.sthlmkoloni.se/forskare-studerar-naringsfloden-i-johannelund/">Johanelund allotment</a>, where we have been collecting information about management practices and taking soil samples to know the number of nutrients in the soil to create “nutrient budgets” that show the balance between nutrient inputs and output. This project’s results will help us assess how urban agriculture fits into the big picture of nutrient flows from the water quality of Stockholm’s lakes.</p>
+<p>We have followed the <a href="https://www.sthlmkoloni.se/forskare-studerar-naringsfloden-i-johannelund/">Johannelund allotment</a>, where we have been collecting information about management practices and taking soil samples to know the number of nutrients in the soil to create “nutrient budgets” that show the balance between nutrient inputs and output. This project’s results will help us assess how urban agriculture fits into the big picture of nutrient flows from the water quality of Stockholm’s lakes.</p>
 <div id="fig-ua" class="quarto-layout-panel">
 <figure class="figure">
 <div class="quarto-layout-row quarto-layout-valign-bottom">
@@ -100,7 +100,7 @@
   <category>survey</category>
   <guid>https://carolina-rodriguez.com/updates/urban agriculture practices/index.html</guid>
   <pubDate>Wed, 28 Sep 2022 22:00:00 GMT</pubDate>
-  <media:content url="https://carolina-rodriguez.com/updates/urban agriculture practices/flyer.pdf" medium="image"/>
+  <media:content url="https://carolina-rodriguez.com/updates/urban agriculture practices/flyer_en.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Updates</title>
@@ -156,7 +156,7 @@ Nov 15, 2022
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="urban agriculture,circularity,nutrients,sustainability" data-listing-date-sort="1667080800000" data-listing-file-modified-sort="1684309867766" data-listing-reading-time-sort="0.8">
+<div class="quarto-post image-right" data-index="1" data-categories="urban agriculture,circularity,nutrients,sustainability" data-listing-date-sort="1667080800000" data-listing-file-modified-sort="1684848824797" data-listing-reading-time-sort="0.79">
 <div class="thumbnail">
 <p><a href="../updates/allotment gardens/index.html"> <img src="https://carolina-rodriguez.com/updates/allotment gardens/JHL.jpeg" class="thumnail-image"> </a></p>
 </div>
@@ -197,9 +197,9 @@ Oct 30, 2022
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="urban agriculture,management practices,survey" data-listing-date-sort="1664402400000" data-listing-file-modified-sort="1684309867796" data-listing-reading-time-sort="0.56">
+<div class="quarto-post image-right" data-index="2" data-categories="urban agriculture,management practices,survey" data-listing-date-sort="1664402400000" data-listing-file-modified-sort="1684848822948" data-listing-reading-time-sort="0.56">
 <div class="thumbnail">
-<p><a href="../updates/urban agriculture practices/index.html"> <img src="https://carolina-rodriguez.com/updates/urban agriculture practices/flyer.pdf" class="thumnail-image"> </a></p>
+<p><a href="../updates/urban agriculture practices/index.html"> <img src="https://carolina-rodriguez.com/updates/urban agriculture practices/flyer_en.jpg" class="thumnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="../updates/urban agriculture practices/index.html">
@@ -241,7 +241,7 @@ No matching items
 </div>
 </div> ]]></description>
   <guid>https://carolina-rodriguez.com/updates/index.html</guid>
-  <pubDate>Mon, 22 May 2023 13:40:18 GMT</pubDate>
+  <pubDate>Tue, 23 May 2023 13:34:54 GMT</pubDate>
 </item>
 </channel>
 </rss>
